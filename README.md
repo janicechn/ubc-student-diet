@@ -1,6 +1,6 @@
 # ubc-student-diet
 
-MATH 340 201 Term Project Proposal
+MATH 340 201 Term Project Proposal \
 Janice Chan and Tina Jia
 
 Budgeting and calorie intake are very important factors for university students when making decisions on where to eat, as university tuition is costly, and calories are necessary to energize oneself in order to learn and study. Here at UBC, there is a residence meal plan, which is mainly used by first-year students living on campus. However, it can be restricted for students who find it too expensive or want to customize what restaurants they eat at. Therefore, we aim to create our own meal plan to optimize the calorie intake per dollar each day throughout the school year, with three meals from three different restaurants around UBC. This will not only meet the calorie intake requirements for students but also be more cost-efficient than the UBC residence meal plan with price and restaurant exposure taken into account. 
