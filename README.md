@@ -8,28 +8,13 @@ Budgeting and calorie intake are very important factors for university students 
 In order to get the most calories while maintaining the budget, we want to maximize the calorie intake per dollar of meals daily. It is beneficial to have three meals: breakfast, lunch, and dinner every day. Since eating three meals from the same restaurant may not be tasteful over time, in our linear programming problem, no meals per day will come from the same restaurant. Furthermore, studies show that having a larger lunch and smaller breakfast, followed by dinner is optimal for dividing calorie intake and sleep quality, so the meal plan in our linear programming problem would reflect the same to optimize the diet*. It is important to meet calorie intake as well as not to exceed it, so ensuring the meal plan does not exceed or fail to meet the daily calorie intake listed for the maximum or minimum intake of male and female students combined will provide the best general meal plan for UBC students. This also includes not being able to consume less than 0 calories. According to eat right, adult womens’ daily calorie needs range from 1,600 to 2,200, while for adult men, it ranges from 2,000 to 3,200 per day**. Therefore, we will set the general range of our diet plan to be within 1,600 to 3,200 calories per day.
 
 To compare against the residence meal plan, our meal plan will include restaurants that are within walking distance around the UBC Vancouver campus, without being restricted to the residence meal plan restaurants. Our meal plan will also result in a daily cost that does not exceed the daily cost of the residence meal plan over the period of a full school year. According to food.ubc.ca as of February 02, 2022, the total for a Residence Meal Plan across both school terms amounts to $5,579.72***. Since the 2022 winter school term spans from September 7, 2021, to April 8, 2022, we will calculate the daily cost to be the cost of the meal plan spent over 213 days****. In order to plan the restaurants’ calorie intake, it is difficult to account for the varying calories and prices of different meals each restaurant offers. Thus, we will find the average calorie intake and the average price of a meal from each restaurant from the entire (current) menu to represent the calorie intake and price of a meal for each restaurant. There are also various types of restaurants on campus, to which we restricted restaurants to be of the following (inside UBC campus and along University Blvd to be of walking distance to classes or on-campus):
-
-* Mercante
 * Tim Hortons
 * Starbucks
-* The Point 
-* Kinton Ramen 
-* Sesame 
-* Brown’s Crafthouse UBC 
-* Downlow Chicken 
 * Uncle Fatih’s pizza
-* Nori Bento & Udon 
-* Jamjar Canteen 
-* Tacomio UBC
-* Steve’s Poke Bar
-* Ryuu Japanese Kitchen 
-* Pizza Garden 
-* Kokoro
 * A&W Canada 
-* Yunshang Rice Noodle House
-* Feast
+* Perugia Italian Caffe
+* McDonalds
 * Gather
-* Open Kitchen
 * Triple O’s
 
 
